@@ -43,7 +43,6 @@ After generate the gcode format then follow the these instruction
 ## Input:
 
 ### Output:
-![image](https://github.com/ramya23000505/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149370791/2d53c313-f897-4aa0-8166-35c190c4650f)
 
 
 ### Name:RAMYA R
