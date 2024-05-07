@@ -42,11 +42,13 @@ After generate the gcode format then follow the these instruction
 
 ## Input:
 
+![input](https://github.com/ramya23000505/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149370791/b5484e06-6c0b-4972-b2ed-3182534f02b1)
 ### Output:
 
+#### Name: RAMYA R
+#### Register Number: 212223230169
 
-### Name:RAMYA R
-### Register Number: 212223230169
+![output](https://github.com/ramya23000505/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149370791/da432542-e8e0-4101-88bc-81de37b0d043)
 
 ## RESULT:
  Thus the given product is reverse engineered and prototyped using 3D Printer.
