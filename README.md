@@ -30,14 +30,20 @@ select the Scale option for design scale according to build tack plate area and 
 after click the start option and select printing option standard as shown in below figure.
 ### Step 9.:- 
 After completing the all setting then click the Slice option and export the file in gcode Format.
-# Step 10.:- 
+### Step 10.:- 
 After generate the gcode format then follow the these instruction 
-     ●	Switch on the 3d printer.
+    ●	Switch on the 3d printer.
+    
     ●	Place your Pen drive in USB.
+    
     ●	Clean your surface bed plate.
+    
     ●	Load your filament into the required extruder as per the requirement.
+    
     ●	Wait until the nozzle & bed plate comes into the required temperature.
+    
     ●	Close the doors of the 3d printer.
+    
     ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
